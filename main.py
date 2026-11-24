@@ -1,6 +1,8 @@
 """Till Firmware Do Us Part — one-line robot wedding vow.
 
 Writes exactly one sentence to entry.txt in the output directory.
+
+Verified entry: sha256 94343a18296b4456263dad6dcb91903e10773dd0781d4ec8f6a6f6707124eaf3, 156 chars, 158 bytes.
 """
 
 import os
